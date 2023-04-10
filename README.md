@@ -32,14 +32,19 @@
 </div>
 
 
+<h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammacheta&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+</h3>
 
 <h3>Additional</h3>
 <div display="flex" flex-direction="row">
 <img alt="Clear code" src="https://m.media-amazon.com/images/I/41xShlnTZTL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" height=100 />
-<img alt="CS50" src="https://pll.harvard.edu/sites/default/files/styles/header/public/course/CS50x_pll.png?itok=jeRsZsvB" height=100 />
+<img alt="CS50" src="https://pll.harvard.edu/sites/default/files/styles/header/public/course/CS50x_pll.png?itok=jeRsZsvB" height=100 />  
+</div>
+
+<p>
   
 [![codewars](https://www.codewars.com/users/iammacheta/badges/small)](https://www.codewars.com/users/iammacheta)
-  
-</div>
+</p>
 
