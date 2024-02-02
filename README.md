@@ -74,7 +74,7 @@
     <p>Instagram-like platform. Photo gallery with the ability to edit profile information and change the avatar. Users
       can add new cards and view them in full-screen mode. The "like" feature is available. Users can only delete cards
       that they have created.</p>
-    <a href="http://mesto.front.ichetovkin.nomoredomains.club/signin">Link to the project</a>
+    <a href="https://mesto.ichetovkin.nomoredomains.club">Link to the project</a>
   </li>
 
   <li>
@@ -82,7 +82,7 @@
     <p>A project where users can search for movies using filters by name, add them to their favorites, and filter short
       films. Movies are sourced from the database at https://api.nomoreparties.co/beatfilm-movies and are displayed upon
       filtering. Additionally, a "show more" button is implemented.</p>
-    <a href="https://movies-explorer.ichet.nomoredomainsclub.ru/">Link to the project</a>
+    <a href="https://movies-explorer.ichet.nomoredomainsclub.ru/signup">Link to the project</a>
   </li>
 
   <li>
