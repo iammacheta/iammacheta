@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Max<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
     height="32" /></h1>
-<h3 align="center">Master of Microelectronics, Junior Web Developer | Yandex Intern</h3>
+<h3 align="center">Master of Microelectronics, Web Developer | Yandex Intern</h3>
 
 <h2>About me</h2>
 
@@ -50,22 +50,6 @@
 </h3>
 
 <h3>Additional</h3>
-<h4>Courses</h4>
-<ol>
-  <li>
-    <a href="https://practicum.yandex.ru/frontend-developer/">Practicum: Frontend Developer</a>
-  </li>
-  <li>
-    <a href="https://www.udemy.com/course/react-redux/">Udemy: Modern React with Redux</a>
-  </li>
-  <li>
-    <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50: Introduction to Computer Science</a>
-  </li>
-</ol>
-
-<h4>Algorithms</h4>
-<img src="https://www.codewars.com/users/iammacheta/badges/small" />
-
 <h3>Projects</h3>
 <h4>Internship Projects</h4>
 <ol>
@@ -100,3 +84,19 @@
     <a href="https://movies-explorer.ichet.nomoredomainsclub.ru/signup">Link to the project</a>
   </li>
 </ol>
+
+<h4>Courses</h4>
+<ol>
+  <li>
+    <a href="https://practicum.yandex.ru/frontend-developer/">Practicum: Frontend Developer</a>
+  </li>
+  <li>
+    <a href="https://www.udemy.com/course/react-redux/">Udemy: Modern React with Redux</a>
+  </li>
+  <li>
+    <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50: Introduction to Computer Science</a>
+  </li>
+</ol>
+
+<h4>Algorithms</h4>
+<img src="https://www.codewars.com/users/iammacheta/badges/small" />
