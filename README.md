@@ -5,6 +5,39 @@
 <h2>About me</h2>
 <p>Working a long time in programmatic advertising, I realized that I want to be on the side of the product and the user. I aspire to create cool products, responsive interfaces, and bring value. Frontend development is exactly what allows me to create and see the results of my work. I always keep up with new technologies. I listen to frontend podcasts to stay updated and get inspired. I apply my engineering background to my work, which enables me to think systematically and solve complex problems effectively.</p>
 
+<h3>Experience</h3>
+<table>
+      <thead>
+        <tr>
+          <th>Period</th>
+          <th>Company</th>
+          <th>Role</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>October 2023 — December 2023</td>
+          <td>Yandex</td>
+          <td>Frontend developer (intern)</td>
+        </tr>
+        <tr>
+          <td>January 2021 — September 2023</td>
+          <td>Yandex</td>
+          <td>Programmatic Ad Manager, Group Lead</td>
+        </tr>
+        <tr>
+          <td>June 2020 — December 2020</td>
+          <td>VK</td>
+          <td>Product Manager</td>
+        </tr>
+        <tr>
+          <td>July 2018 — April 2020</td>
+          <td>Sports.ru</td>
+          <td>Programmatic Ad Manager, Group Lead</td>
+        </tr>
+      </tbody>
+</table>
+
 <h3>Technologies</h3>
 <div display="flex">
 
