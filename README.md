@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Max<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
     height="32" /></h1>
-<h3 align="center">Web Developer with engineering background | ex-Yandex</h3>
+<h3 align="center">Web Developer with engineering background | ex-Yandex. Now seeking new work opportunities</h3>
 
 <h2>About me</h2>
 <p>Working a long time in programmatic advertising, I realized that I want to be on the side of the product and the user. I aspire to create cool products, responsive interfaces, and bring value. Frontend development is exactly what allows me to create and see the results of my work. I always keep up with new technologies. I listen to frontend podcasts to stay updated and get inspired. I apply my engineering background to my work, which enables me to think systematically and solve complex problems effectively.</p>
