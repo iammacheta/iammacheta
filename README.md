@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Max<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
     height="32" /></h1>
-<h3 align="center">Master of Microelectronics, Web Developer | Yandex Intern</h3>
+<h3 align="center">Web Developer with engineering background | ex-Yandex</h3>
 
 <h2>About me</h2>
 
