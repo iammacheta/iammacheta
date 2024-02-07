@@ -67,32 +67,6 @@
 <img src="https://www.codewars.com/users/iammacheta/badges/small" />
 
 <h3>Projects</h3>
-<h4>Personal projects</h4>
-<ol>
-  <li>
-    <h5>Project "Mesto"</h5>
-    <p>Instagram-like platform. Photo gallery with the ability to edit profile information and change the avatar. Users
-      can add new cards and view them in full-screen mode. The "like" feature is available. Users can only delete cards
-      that they have created.</p>
-    <a href="https://mesto.ichetovkin.nomoredomains.club">Link to the project</a>
-  </li>
-
-  <li>
-    <h5>Project "Movies Explorer"</h5>
-    <p>A project where users can search for movies using filters by name, add them to their favorites, and filter short
-      films. Movies are sourced from the database at https://api.nomoreparties.co/beatfilm-movies and are displayed upon
-      filtering. Additionally, a "show more" button is implemented.</p>
-    <a href="https://movies-explorer.ichet.nomoredomainsclub.ru/signup">Link to the project</a>
-  </li>
-
-  <li>
-    <h5>Project "Traveling in Russia"</h5>
-    <p>A project aimed at practicing adaptive web design skills. The work includes grid-based layout construction and
-      the practice of writing media queries.</p>
-    <a href="https://iammacheta.github.io/russian-travel/index.html">Link to the project</a>
-  </li>
-</ol>
-
 <h4>Internship Projects</h4>
 <ol>
   <li>
@@ -104,5 +78,25 @@
     <h5>PDD Exam</h5>
     <p>This project is designed to promote awareness of traffic rules. Users are presented with a test on their knowledge of traffic rules, with options to take the test as a pedestrian, car driver, or scooter driver. The results determine the level of knowledge, and participants can receive gifts from project partners. The project engaged several hundred thousand participants.</p>
     <a href="https://pdd.auto.ru/">Link to the project</a>
+  </li>
+</ol>
+
+
+<h4>Personal projects</h4>
+<ol>
+  <li>
+    <h5>Instagram-like platform</h5>
+    <p>Photo gallery with the ability to edit profile information and change the avatar. Users
+      can add new cards and view them in full-screen mode. The "like" feature is available. Users can only delete cards
+      that they have created.</p>
+    <a href="https://mesto.ichetovkin.nomoredomains.club">Link to the project</a>
+  </li>
+
+  <li>
+    <h5>Film search and favorite movie list creation service</h5>
+    <p>A project where users can search for movies using filters by name, add them to their favorites, and filter short
+      films. Movies are sourced from the database at https://api.nomoreparties.co/beatfilm-movies and are displayed upon
+      filtering. Additionally, a "show more" button is implemented.</p>
+    <a href="https://movies-explorer.ichet.nomoredomainsclub.ru/signup">Link to the project</a>
   </li>
 </ol>
