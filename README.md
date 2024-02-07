@@ -97,3 +97,13 @@
 
 <h4>Algorithms</h4>
 <img src="https://www.codewars.com/users/iammacheta/badges/small" />
+
+<h3>Get in Touch</h4>
+<ul>
+    <li>
+        <a href="https://www.linkedin.com/in/maxim-ichetovkin/">LinkedIn</a>
+    </li>
+    <li>
+        <a href="https://t.me/maksichetovkin">Telegram</a>
+    </li>
+</ul>
