@@ -48,7 +48,7 @@
 
 <h3>Additional</h3>
 <h3>Projects</h3>
-<h4>Internship Projects</h4>
+<h4>My Work Projects</h4>
 <ol>
   <li>
     <h5>Car of the Year</h5>
@@ -63,7 +63,7 @@
 </ol>
 
 
-<h4>Personal projects</h4>
+<h4>Other projects</h4>
 <ol>
   <li>
     <h5>Instagram-like platform</h5>
