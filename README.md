@@ -100,7 +100,7 @@
 <ul>
   <li>
     <h5>"Hackathon+" Workshop by Yandex Practicum</h5>
-    <h5>Project: CRM System for ambassadors' commutity menagement</h5>
+    <h5>Project: CRM for ambassadors' community management</h5>
     <p>An app for the community manager of the ambassadors' community where they can accept applications, receive notifications, send out mailings, write personal messages, and view analytics.</p>
     <h5>Tasks:</h5> <p>Developed complex interfaces using ReactJS, TypeScript, and Gravity UI. Utilized React-hook-form for form management and Yup for client-side validation. Integrated forms into a Telegram bot. Integrated the frontend with the backend using Redux Toolkit and RTK Query for state management and handling asynchronous requests with caching.</p>
 <h5>Tech stack: TypeScript, React, CSS Modules, React-hook-form, Yup, Redux Toolkit, RTK Query, Gravity UI</h5>
